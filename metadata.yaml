@@ -1,0 +1,31 @@
+_repo: The-Destiny-of-ManViewed-in-the-Light-of-His-Origin_17239
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fiske, John
+    aliases:
+    - Fisk, John
+    - Green, Edmund Fisk
+    birthdate: 1842
+    deathdate: 1901
+    gutenberg_agent_id: '525'
+    url: http://www.gutenberg.org/2009/agents/525
+    wikipedia: http://en.wikipedia.org/wiki/John_Fiske
+description: ''
+gutenberg_issued: '2005-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17239'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human beings'
+- !lcsh 'Immortality'
+- !lcc 'BD'
+title: The Destiny of Man, Viewed in the Light of His Origin
+url: http://www.gutenberg.org/ebooks/17239
